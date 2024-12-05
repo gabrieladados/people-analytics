@@ -582,8 +582,8 @@ Com base nos insights, propomos as seguintes ações:
     - Análise Salarial por departamento dos colaboradores ativos e desligados. 
     <br>  
       
-  > 👉 **Acesse o dashboard no Tableau Public aqui:**  [HR Attrition | Tableau Public](#).
-  
+  > 👉 **Acesse o dashboard no Tableau Public aqui:**   [Dashboard no Tableau](https://public.tableau.com/views/hr_attrition_17105255789630/Demographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ![Demographics](https://github.com/user-attachments/assets/130d93bf-9a10-48a1-a891-ef19d1eaea4c)
 
