@@ -584,12 +584,10 @@ Com base nos insights, propomos as seguintes ações:
       
   > 👉 **Acesse o dashboard no Tableau Public aqui:**  [HR Attrition | Tableau Public](#).
   
-  
-![dash1](https://github.com/user-attachments/assets/93bb4d56-e562-49f3-8476-5556f13b3d5e)
 
-![dash2](https://github.com/user-attachments/assets/0311e650-84e4-4220-a72d-3d59b932b4e8)
+![Demographics](https://github.com/user-attachments/assets/130d93bf-9a10-48a1-a891-ef19d1eaea4c)
 
-
+![image](https://github.com/user-attachments/assets/4175546d-b6a7-4148-a4d4-7fe9ead68be1)
 
 
 ---
