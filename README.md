@@ -593,7 +593,7 @@ Com base nos insights, propomos as seguintes ações:
 ---
 
 
-## Constribuições
+## Contribuições
 
 Muito obrigada por acompanhar meu projeto até aqui! 🎉
 
